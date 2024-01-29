@@ -1,9 +1,26 @@
-# Notion
-# React + Vite
+# Editor de Texto Inspirado no Notion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Visão Geral
 
-Currently, two official plugins are available:
+Este projeto é um editor de texto simples e eficiente, desenvolvido com inspiração no Notion. Ele oferece uma experiência de edição de conteúdo altamente intuitiva e amigável. Utilizando as tecnologias Tiptap, Highlight.js, Lowlight e React Icons.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Principais Recursos
+
+### Formatação de Texto
+
+- Utiliza a biblioteca Tiptap para fornecer uma ampla gama de opções de formatação de texto, incluindo negrito, itálico, títulos, listas, citações e muito mais.
+
+### Realce de Código
+
+- Incorpora o Highlight.js e o Lowlight para permitir o realce de código em várias linguagens de programação, tornando-o ideal para a criação de tutoriais, documentação técnica e snippets de código.
+
+### Ícones Personalizados
+
+- Usa React Icons para adicionar uma coleção diversificada de ícones personalizados, enriquecendo a experiência visual e a usabilidade do editor.
+
+## Tecnologias Utilizadas
+
+- Tiptap
+- Highlight.js
+- Lowlight
+- React Icons
